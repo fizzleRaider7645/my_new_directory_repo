@@ -1,1 +1,1 @@
-This is new entry to readme file
+This is a new entry to readme file
