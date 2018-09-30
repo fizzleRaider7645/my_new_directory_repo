@@ -1,1 +1,1 @@
-This is a new entry to readme file
+This comment was written on the 'scratch' branch
